@@ -96,7 +96,12 @@ body {
     flex: 1;
     min-width: 250px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0);
-    text-align: center;
+    text-align: left;
+}
+
+.product-card p{
+    color: #888888;
+    font-size:14px;
 }
 
 .product-card img {
